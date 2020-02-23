@@ -1,14 +1,13 @@
 import React from "react"
-import Layout from '../components/layout'
+import Layout from "../components/layout"
 
 const ContactPage = () => {
- return (
+  return (
     <Layout>
-    <h1>Contact Me</h1>
-    <h2>My number is 09983838383</h2>
-    <Footer />
+      <h1>Contact Me</h1>
+      <h2>My number is 09983838383</h2>
     </Layout>
- )
+  )
 }
 
 export default ContactPage

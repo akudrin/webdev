@@ -4,6 +4,7 @@ date: "2020-02-02"
 ---
 
 I just launched a new bootcamp!
+![Image](./image.jpg)
 
 ## Topics Covered
 

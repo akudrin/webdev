@@ -11,8 +11,9 @@ module.exports = {
     author: "A K",
   },
   plugins: [
+    "gatsby-plugin-react-helmet",
     {
-      resolve: `gatsby-source-contentful`,
+      resolve: "gatsby-source-contentful",
       options: {
         spaceId: `your_space_id`,
         accessToken: process.env.CONTENTFUL_ACCESS_TOKEN,
